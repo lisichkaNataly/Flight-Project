@@ -4,11 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3790cebf-2e02-40a5-86e9-e6f26994b120" name="Changes" comment="" />
+    <list default="true" id="3790cebf-2e02-40a5-86e9-e6f26994b120" name="Changes" comment="Main">
+      <change afterPath="$PROJECT_DIR$/src/test/java/FlightFilterImplTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
@@ -22,9 +42,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature-natalya",
+    "last_opened_file_path": "/Users/natalamoiseeva/IdeaProjects/Flight-Project"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.gridnine.testing" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,6 +65,100 @@
       <option name="presentableId" value="Default" />
       <updated>1693200098014</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1693200204092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693200204092</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add dependencies pom.xml">
+      <option name="closed" value="true" />
+      <created>1693200286380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693200286380</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add README">
+      <option name="closed" value="true" />
+      <created>1693200353733</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693200353733</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add Flight and Segment">
+      <option name="closed" value="true" />
+      <created>1693200418011</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693200418011</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add interface FlightFilter">
+      <option name="closed" value="true" />
+      <created>1693200463327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693200463327</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add FlightFilterImpl">
+      <option name="closed" value="true" />
+      <created>1693200538984</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693200538985</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add method showFlight from FlightFilterImpl">
+      <option name="closed" value="true" />
+      <created>1693200671009</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1693200671009</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add methods FlightFilterImpl">
+      <option name="closed" value="true" />
+      <created>1693200881760</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693200881760</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add class FlightBuilder">
+      <option name="closed" value="true" />
+      <created>1693200937522</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693200937522</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Main">
+      <option name="closed" value="true" />
+      <created>1693200979719</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1693200979719</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="add dependencies pom.xml" />
+    <MESSAGE value="add README" />
+    <MESSAGE value="add Flight and Segment" />
+    <MESSAGE value="add interface FlightFilter" />
+    <MESSAGE value="add FlightFilterImpl" />
+    <MESSAGE value="add method showFlight from FlightFilterImpl" />
+    <MESSAGE value="add methods FlightFilterImpl" />
+    <MESSAGE value="add class FlightBuilder" />
+    <MESSAGE value="Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main" />
   </component>
 </project>
